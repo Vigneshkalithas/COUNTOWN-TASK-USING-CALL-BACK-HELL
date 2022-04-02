@@ -1,0 +1,17 @@
+body{
+    background-color:#42437c99;
+    
+    
+}
+h1{
+    color:black;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height:100vh;
+    font-family: 'Mochiy Pop P One', sans-serif;
+    font-weight: bold;
+    font-size:50px;
+    
+
+}
